@@ -1,0 +1,17 @@
+mod = [
+	"vermitannica"
+]
+
+package = [
+	"resource_packages/vermitannica/vermitannica"
+]
+
+lua = [
+	"scripts/mods/*"
+
+	"materials/vermitannica/vermitannica_atlas"
+]
+
+material = [
+    "materials/vermitannica/*"
+]

@@ -1,0 +1,26 @@
+vermitannica_atlas = {
+	material_contexts = {
+		surface_material = ""
+	}
+
+	shader = "gui:DIFFUSE_MAP"
+
+	textures = {
+		diffuse_map = "gui/vermitannica/vermitannica_atlas"
+	}
+
+	variables = {
+	}
+}
+
+vermitannica_atlas_masked = {
+	material_contexts = {
+		surface_material = ""
+	}
+	shader = "gui_gradient:DIFFUSE_MAP:MASKED"
+	textures = {
+		diffuse_map = "gui/vermitannica/vermitannica_atlas"
+	}
+	variables = {
+	}
+}
